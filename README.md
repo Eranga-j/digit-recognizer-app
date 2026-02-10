@@ -115,3 +115,6 @@ Image classification learning
 
 Educational projects
 
+data set link- https://www.kaggle.com/competitions/recognize-digits/overview
+
+
